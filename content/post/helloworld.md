@@ -1,7 +1,6 @@
 ---
 title: "Helloworld"
 date: 2018-08-19T13:54:17+09:00
-draft: true
 url: /test/abc/
 ---
 
